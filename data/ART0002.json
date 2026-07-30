@@ -1,12 +1,26 @@
 {
   "id": "ART0002",
-  "title": "Mona Lisa",
-  "artist": "Leonardo da Vinci",
-  "year": "1503–1506",
-  "location": "Louvre Museum, Paris",
-  "description": "The Mona Lisa is one of the world's most famous portraits. Painted by Leonardo da Vinci during the Renaissance, it is admired for its mysterious smile, realistic detail, and innovative painting techniques.",
+
+  "title_en": "Mona Lisa",
+  "title_mr": "मोना लिसा",
+
+  "artist_en": "Leonardo da Vinci",
+  "artist_mr": "लिओनार्डो दा विंची",
+
+  "year_en": "1503–1506",
+  "year_mr": "इ.स. १५०३–१५०६",
+
+  "location_en": "Louvre Museum, Paris",
+  "location_mr": "लूव्हर संग्रहालय, पॅरिस",
+
+  "description_en": "The Mona Lisa is one of the world's most famous portraits. Painted by Leonardo da Vinci during the Renaissance, it is admired for its mysterious smile, realistic detail, and innovative painting techniques.",
+
+  "description_mr": "मोना लिसा हे जगातील सर्वात प्रसिद्ध व्यक्तिचित्रांपैकी एक आहे. पुनर्जागरण काळात लिओनार्डो दा विंची यांनी रंगवलेले हे चित्र त्याच्या गूढ हास्य, वास्तवदर्शी तपशील आणि उत्कृष्ट चित्रकलेसाठी प्रसिद्ध आहे.",
+
   "image": "ART0002.jpg",
-  "audio": "ART0002.mp3",
-  "language": "English",
-  "version": "1.0"
+
+  "audio_en": "ART0002_EN.mp3",
+  "audio_mr": "ART0002_MR.mp3",
+
+  "version": "2.0"
 }
