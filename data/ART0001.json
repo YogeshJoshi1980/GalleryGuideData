@@ -1,10 +1,26 @@
 {
   "id": "ART0001",
-  "title": "The Starry Night",
-  "artist": "Vincent van Gogh",
-  "year": "1889",
-  "location": "Museum of Modern Art, New York",
-  "description": "The Starry Night is one of Vincent van Gogh's most famous paintings. It shows a beautiful night sky with swirling stars over a quiet village.",
-  "language": "English",
-  "version": "1.0"
+
+  "title_en": "The Starry Night",
+  "title_mr": "तारांकित रात्र",
+
+  "artist_en": "Vincent van Gogh",
+  "artist_mr": "व्हिन्सेंट व्हॅन गॉग",
+
+  "year_en": "1889",
+  "year_mr": "इ.स. १८८९",
+
+  "location_en": "Museum of Modern Art, New York",
+  "location_mr": "म्युझियम ऑफ मॉडर्न आर्ट, न्यूयॉर्क",
+
+  "description_en": "The Starry Night is one of Vincent van Gogh's most famous paintings. It shows a beautiful night sky with swirling stars over a quiet village.",
+
+  "description_mr": "तारांकित रात्र हे व्हिन्सेंट व्हॅन गॉग यांचे सर्वात प्रसिद्ध चित्रांपैकी एक आहे. या चित्रामध्ये फिरणारे ढग, चमकणारे तारे आणि शांत गावाचे सुंदर चित्रण केले आहे.",
+
+  "image": "ART0001.jpg",
+
+  "audio_en": "ART0001_EN.mp3",
+  "audio_mr": "ART0001_MR.mp3",
+
+  "version": "2.0"
 }
